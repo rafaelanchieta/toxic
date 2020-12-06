@@ -1,2 +1,4 @@
-# toxic
-To Detect Toxic Texts in Brazilian Portuguese Language
+ToDo
+- [ ] Pre-process?
+- [ ] Graph-based approach
+- [ ] RNN approaches
