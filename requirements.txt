@@ -1,7 +1,8 @@
-pandas~=1.1.3
-numpy~=1.19.1
+pandas
+numpy
 tweet-preprocessor
 enelvo~=0.10.4
 nltk
 networkx
 scikit-learn
+gensim
