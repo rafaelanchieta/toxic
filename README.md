@@ -6,7 +6,7 @@ This repository contains the source code of a toxic comment detector written in 
 - `pip install -r requirements.txt`
 - `sh download.sh` to download pre-trained embeddings
 
-## Usage
+## Reproduce the results
 `python main.py`
 
 ## References
