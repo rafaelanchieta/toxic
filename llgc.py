@@ -167,9 +167,10 @@ def setup_module(module):
     except ImportError:
         raise SkipTest("SciPy not available")
 
+
 if __name__ == '__main__':
     G=nx.Graph()
-    G.add_nodes_from(range(1,16))
+    G.add_nodes_from(range(1, 16))
     G.node[2]['label'] = 'A'
     G.node[11]['label'] = 'B'
     G.add_edges_from([(1,3),(3,2),(3,4),(4,6),(4,12),(4,14),(6,5),(12,10),(12,15),(10,7),(10,8),(10,9),(10,11),(10,13)])
