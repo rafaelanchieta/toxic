@@ -19,6 +19,6 @@ This repository contains the source code of a toxic comment detector written in 
   address = "Online",
   month = sep,
   pages = "1265--1271",
-  publiser = "INCOMA Ltd.",
+  publisher = "INCOMA Ltd.",
 }
 ```
