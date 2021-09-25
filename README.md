@@ -13,7 +13,7 @@ This repository contains the source code of a toxic comment detector written in 
 ```
 @inproceedings{ghivvago-et-al-21,
   title = "{A} {S}emi-{S}upervised {A}pproach to {D}etect {T}oxic {C}omments",
-  author = "Saraiva, Ghivvago D and Anchieta, Rafael T, and Moura, Raimundo S",
+  author = "Saraiva, Ghivvago D and Anchiêta, Rafael T and Neto, Franciso A R and Moura, Raimundo S",
   booktitle = "Proceedings of the International Conference on Recents Advances in Natural Language Processing (RANLP)",
   year = "2021",
   address = "Online",
